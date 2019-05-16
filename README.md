@@ -15,7 +15,7 @@ Or remind a holiday.
 * Include the script in your index file using <code>include()</code> function.
 * Add the <code>echo $HOLIDAY</code> snippet in your index file. <?php?>
 
-### Dev
+### Developer
 
 * [Isaac](https://www.facebook.com/isaacdarcilla)
 
