@@ -1,10 +1,10 @@
 <?php 
 /*
 *
-* @param $define = HOLIDAY;
+* Coded by Isaac D. Arcilla [isaacdarcilla@yahoo.com]
 *
 */
-$HOLIDAY = '';
+$HOLIDAY = ''; //TO BE ADDED IN YOUR INDEX FILE
 /*
 *
 * @param $timezone
