@@ -1,5 +1,5 @@
 ## Holiday Reminder
-### PHP script that reminds the holidays or birthdays embedded in a web app
+### PHP script that reminds the holidays or birthdays embedded in a web application
 
 Remind a birthday using this script? Easy. Just include the source code.
 
